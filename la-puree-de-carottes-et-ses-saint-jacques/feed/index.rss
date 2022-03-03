@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : La purée de carottes et ses saint jacques</title>
+	<atom:link href="http://sophiealacoque.com/la-puree-de-carottes-et-ses-saint-jacques/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sophiealacoque.com/la-puree-de-carottes-et-ses-saint-jacques/</link>
+	<description>La bonne cuisine est honnête, sincère et simple.</description>
+	<lastBuildDate>Sun, 24 Aug 2014 19:15:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+<meta name="generator" content="deStyle 0.9.3" />
+	<item>
+		<title>Par&#160;: Cloé</title>
+		<link>http://sophiealacoque.com/la-puree-de-carottes-et-ses-saint-jacques/#comment-29</link>
+		<dc:creator><![CDATA[Cloé]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2012 11:11:03 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[ça me donne faim !! :)]]></description>
+		<content:encoded><![CDATA[<p>ça me donne faim !! 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: helene</title>
+		<link>http://sophiealacoque.com/la-puree-de-carottes-et-ses-saint-jacques/#comment-23</link>
+		<dc:creator><![CDATA[helene]]></dc:creator>
+		<pubDate>Mon, 12 Mar 2012 12:39:07 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[ça c &#039;est bon ça !]]></description>
+		<content:encoded><![CDATA[<p>ça c &lsquo;est bon ça !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

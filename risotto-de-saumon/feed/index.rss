@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Risotto de saumon</title>
+	<atom:link href="http://sophiealacoque.com/risotto-de-saumon/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sophiealacoque.com/risotto-de-saumon/</link>
+	<description>La bonne cuisine est honnête, sincère et simple.</description>
+	<lastBuildDate>Sun, 24 Aug 2014 19:15:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+<meta name="generator" content="deStyle 0.9.3" />
+	<item>
+		<title>Par&#160;: Anaïs</title>
+		<link>http://sophiealacoque.com/risotto-de-saumon/#comment-187</link>
+		<dc:creator><![CDATA[Anaïs]]></dc:creator>
+		<pubDate>Tue, 04 Sep 2012 19:04:44 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Moi qui ne savais pas quoi faire à manger ce soir, j&#039;ai été ravie de tomber sur cette recette simple et bonne !! Merci !! Tu as fais des heureux (Christophe a la peau du ventre bien tendue !) !! Bisous à vous 2 ! Bonne soirée ! A bientôt !]]></description>
+		<content:encoded><![CDATA[<p>Moi qui ne savais pas quoi faire à manger ce soir, j&rsquo;ai été ravie de tomber sur cette recette simple et bonne !! Merci !! Tu as fais des heureux (Christophe a la peau du ventre bien tendue !) !! Bisous à vous 2 ! Bonne soirée ! A bientôt !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: Thomas</title>
+		<link>http://sophiealacoque.com/risotto-de-saumon/#comment-169</link>
+		<dc:creator><![CDATA[Thomas]]></dc:creator>
+		<pubDate>Thu, 09 Aug 2012 11:45:48 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[C&#039;est ma recette préférée !]]></description>
+		<content:encoded><![CDATA[<p>C&rsquo;est ma recette préférée !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

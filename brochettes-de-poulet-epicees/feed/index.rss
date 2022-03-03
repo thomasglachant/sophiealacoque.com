@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Brochettes de poulet épicées</title>
+	<atom:link href="http://sophiealacoque.com/brochettes-de-poulet-epicees/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sophiealacoque.com/brochettes-de-poulet-epicees/</link>
+	<description>La bonne cuisine est honnête, sincère et simple.</description>
+	<lastBuildDate>Sun, 24 Aug 2014 19:15:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+<meta name="generator" content="deStyle 0.9.3" />
+	<item>
+		<title>Par&#160;: Alexandra C</title>
+		<link>http://sophiealacoque.com/brochettes-de-poulet-epicees/#comment-1232</link>
+		<dc:creator><![CDATA[Alexandra C]]></dc:creator>
+		<pubDate>Sat, 14 Dec 2013 15:55:53 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Salut Sophie, je te pique cette recette à tester la semaine prochaine! Ca m&#039;a l&#039;air super bon! bises :)]]></description>
+		<content:encoded><![CDATA[<p>Salut Sophie, je te pique cette recette à tester la semaine prochaine! Ca m&rsquo;a l&rsquo;air super bon! bises 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: Elise</title>
+		<link>http://sophiealacoque.com/brochettes-de-poulet-epicees/#comment-364</link>
+		<dc:creator><![CDATA[Elise]]></dc:creator>
+		<pubDate>Sat, 17 Nov 2012 17:42:37 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[ça a l&#039;air...Magique !]]></description>
+		<content:encoded><![CDATA[<p>ça a l&rsquo;air&#8230;Magique !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: Yoann G.</title>
+		<link>http://sophiealacoque.com/brochettes-de-poulet-epicees/#comment-347</link>
+		<dc:creator><![CDATA[Yoann G.]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2012 21:08:26 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Bonjour,
+ces brochettes m&#039;ont l&#039;air excellentes ! une suggestion d&#039;accompagnement pour celles-ci?]]></description>
+		<content:encoded><![CDATA[<p>Bonjour,<br />
+ces brochettes m&rsquo;ont l&rsquo;air excellentes ! une suggestion d&rsquo;accompagnement pour celles-ci?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

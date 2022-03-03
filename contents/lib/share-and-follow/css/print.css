@@ -1,0 +1,6 @@
+
+body {background: white;font-size: 12pt;color:black;}
+* {background-image:none;}
+#wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}

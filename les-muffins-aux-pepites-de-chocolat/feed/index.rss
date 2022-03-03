@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Les muffins aux pépites de chocolat</title>
+	<atom:link href="http://sophiealacoque.com/les-muffins-aux-pepites-de-chocolat/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sophiealacoque.com/les-muffins-aux-pepites-de-chocolat/</link>
+	<description>La bonne cuisine est honnête, sincère et simple.</description>
+	<lastBuildDate>Sun, 24 Aug 2014 19:15:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+<meta name="generator" content="deStyle 0.9.3" />
+	<item>
+		<title>Par&#160;: Sophie</title>
+		<link>http://sophiealacoque.com/les-muffins-aux-pepites-de-chocolat/#comment-20</link>
+		<dc:creator><![CDATA[Sophie]]></dc:creator>
+		<pubDate>Mon, 05 Mar 2012 18:13:56 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[18 ! Et ça se mange vite... trop vite !]]></description>
+		<content:encoded><![CDATA[<p>18 ! Et ça se mange vite&#8230; trop vite !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: helene</title>
+		<link>http://sophiealacoque.com/les-muffins-aux-pepites-de-chocolat/#comment-19</link>
+		<dc:creator><![CDATA[helene]]></dc:creator>
+		<pubDate>Mon, 05 Mar 2012 16:38:30 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[oulalaaa des muffins à perte de vue...]]></description>
+		<content:encoded><![CDATA[<p>oulalaaa des muffins à perte de vue&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: Sophie</title>
+		<link>http://sophiealacoque.com/les-muffins-aux-pepites-de-chocolat/#comment-18</link>
+		<dc:creator><![CDATA[Sophie]]></dc:creator>
+		<pubDate>Mon, 05 Mar 2012 16:05:06 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Demande à David il te répondra !]]></description>
+		<content:encoded><![CDATA[<p>Demande à David il te répondra !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: Noémie</title>
+		<link>http://sophiealacoque.com/les-muffins-aux-pepites-de-chocolat/#comment-17</link>
+		<dc:creator><![CDATA[Noémie]]></dc:creator>
+		<pubDate>Mon, 05 Mar 2012 16:01:19 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Ils ont l&#039;air délicieux!]]></description>
+		<content:encoded><![CDATA[<p>Ils ont l&rsquo;air délicieux!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Mes premiers Makis</title>
+	<atom:link href="http://sophiealacoque.com/mes-premiers-makis/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sophiealacoque.com/mes-premiers-makis/</link>
+	<description>La bonne cuisine est honnête, sincère et simple.</description>
+	<lastBuildDate>Sun, 24 Aug 2014 19:15:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+<meta name="generator" content="deStyle 0.9.3" />
+	<item>
+		<title>Par&#160;: Cloé</title>
+		<link>http://sophiealacoque.com/mes-premiers-makis/#comment-8</link>
+		<dc:creator><![CDATA[Cloé]]></dc:creator>
+		<pubDate>Fri, 02 Mar 2012 18:31:04 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[La prochaine fois, promis je n&#039;oublie pas !!! J&#039;ai trop envie de les manger tes makis !! :)]]></description>
+		<content:encoded><![CDATA[<p>La prochaine fois, promis je n&rsquo;oublie pas !!! J&rsquo;ai trop envie de les manger tes makis !! 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: François</title>
+		<link>http://sophiealacoque.com/mes-premiers-makis/#comment-2</link>
+		<dc:creator><![CDATA[François]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2012 11:34:49 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[C&#039;est une très bonne idée, j&#039;ai envie d&#039;en faire depuis un moment !
+
+Et bienvenue à sophiealacoque sur la toile !]]></description>
+		<content:encoded><![CDATA[<p>C&rsquo;est une très bonne idée, j&rsquo;ai envie d&rsquo;en faire depuis un moment !</p>
+<p>Et bienvenue à sophiealacoque sur la toile !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Pâtes fraîches !</title>
+	<atom:link href="http://sophiealacoque.com/pates-fraiches/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sophiealacoque.com/pates-fraiches/</link>
+	<description>La bonne cuisine est honnête, sincère et simple.</description>
+	<lastBuildDate>Sun, 24 Aug 2014 19:15:21 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.10</generator>
+<meta name="generator" content="deStyle 0.9.3" />
+	<item>
+		<title>Par&#160;: Christian</title>
+		<link>http://sophiealacoque.com/pates-fraiches/#comment-1083</link>
+		<dc:creator><![CDATA[Christian]]></dc:creator>
+		<pubDate>Mon, 03 Jun 2013 14:07:15 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Rien de tel que les pâtes maison. Merci pour cette excellente recette.]]></description>
+		<content:encoded><![CDATA[<p>Rien de tel que les pâtes maison. Merci pour cette excellente recette.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: François</title>
+		<link>http://sophiealacoque.com/pates-fraiches/#comment-110</link>
+		<dc:creator><![CDATA[François]]></dc:creator>
+		<pubDate>Thu, 10 May 2012 17:50:32 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[oui...merci encore !]]></description>
+		<content:encoded><![CDATA[<p>oui&#8230;merci encore !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: Sophie</title>
+		<link>http://sophiealacoque.com/pates-fraiches/#comment-109</link>
+		<dc:creator><![CDATA[Sophie]]></dc:creator>
+		<pubDate>Thu, 10 May 2012 17:26:07 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Quelle chance inouïe  !]]></description>
+		<content:encoded><![CDATA[<p>Quelle chance inouïe  !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par&#160;: François</title>
+		<link>http://sophiealacoque.com/pates-fraiches/#comment-108</link>
+		<dc:creator><![CDATA[François]]></dc:creator>
+		<pubDate>Thu, 10 May 2012 17:20:05 +0000</pubDate>
+		<guid isPermaLink="false">http://sophiealacoque.com/</guid>
+		<description><![CDATA[Moi je les ai goutées ! Trop bonne !]]></description>
+		<content:encoded><![CDATA[<p>Moi je les ai goutées ! Trop bonne !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,32 @@
+		<div class="clear"></div>
+	
+		</div><!-- end content -->
+<div style="text-align:center">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9211138870495555";
+/* Sophiealacoque2 */
+google_ad_slot = "1347927651";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	</div>
+	</div>
+	
+	<div id="content-bottom"></div>
+	
+	<div id="footer">
+		Copyright &copy; 2012 <?php bloginfo('name'); ?> - Tous droits réservés<br />
+	</div>
+	
+	<?php if(ts_get_option('ts_color_switch')) include( TEMPLATEPATH . '/lib/inc/styleswitcher.php'); ?>
+
+</div><!-- end main -->
+
+<?php wp_footer(); ?>
+
+</body>
+</html>
